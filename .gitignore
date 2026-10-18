@@ -1,0 +1,33 @@
+# C / C++ Compiled Binaries & Object Files
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+*.dep.inc
+
+# NetBeans / CMake / Build Directories
+**/nbproject/
+**/dist/
+**/build/
+**/output/
+cmake-build-*/
+
+# IDEs & Editors
+.vscode/
+**/.vscode/
+.idea/
+**/.idea/
+*.iml
+
+# Accidental Nested Duplicates
+Studies-C/
+projeto POO/
+a.gitignore.txt
+
+# OS Specific
+.DS_Store
+Thumbs.db
+desktop.ini
