@@ -4,7 +4,7 @@ Acervo de apostilas e notas de aula em PDF cobrindo a fundamentação teórica d
 
 ---
 
-## 📚 Índice Sequencial de Tópicos
+## Índice Sequencial de Tópicos
 
 | # | Arquivo | Tópico de Ciência da Computação Abordado |
 |:---:|---|---|

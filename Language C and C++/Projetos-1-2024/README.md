@@ -4,7 +4,7 @@ Este diretório armazena a versão consolidada dos projetos práticos do semestr
 
 ---
 
-## 📋 Índice de Projetos
+## Índice de Projetos
 
 | Subpasta | Arquivo Principal | Resumo Técnico | Como Compilar e Executar |
 |---|---|---|---|

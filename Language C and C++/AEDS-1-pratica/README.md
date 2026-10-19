@@ -4,7 +4,7 @@ Este diretório reúne os projetos práticos de laboratório desenvolvidos em **
 
 ---
 
-## 🧭 Catálogo de Projetos do Diretório
+## Catálogo de Projetos do Diretório
 
 | Subpasta / Projeto | Arquivo Principal | Objetivo e Lógica Implementada | Conceitos Aplicados | Comando de Compilação e Execução |
 |---|---|---|---|---|

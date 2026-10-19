@@ -4,7 +4,7 @@ Este diretório reúne as **7 atividades avaliativas práticas** em **C/C++** e 
 
 ---
 
-## 🧭 Catálogo de Atividades e Experimentos
+## Catálogo de Atividades e Experimentos
 
 | Diretório / Arquivo | Linguagem | Objetivo do Algoritmo e Lógica Implementada | Conceitos Aplicados | Como Compilar e Executar |
 |---|---|---|---|---|
